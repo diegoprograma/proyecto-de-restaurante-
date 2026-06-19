@@ -92,7 +92,7 @@ classDiagram
 
 ## Instalación
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/diegoprograma/proyecto-de-restaurante-.git
 cd restaurante_contro
 python -m pip install -r requirements.txt
 ```
